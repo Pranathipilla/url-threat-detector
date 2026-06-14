@@ -1,4 +1,4 @@
-## About
+## URL Threat Detector
 
 URL Threat Detector is a cybersecurity tool that uses Machine Learning and 
 Natural Language Processing to detect malicious URLs in real time.
